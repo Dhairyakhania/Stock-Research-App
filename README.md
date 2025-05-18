@@ -60,4 +60,4 @@ A modern, interactive financial research assistant powered by **LangChain** and 
   ```
 
 ## 📄 License
-This project is licensed under the [License]().
+This project is licensed under the [License](LICENSE).
