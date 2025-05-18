@@ -1,0 +1,13 @@
+groq
+yfinance
+newspaper4k
+lxml_html_clean
+sentence-transformers
+langchain
+pdfkit
+beautifulsoup4
+streamlit
+langchain-groq
+python-dotenv
+Jinja2
+langchain_tavily
