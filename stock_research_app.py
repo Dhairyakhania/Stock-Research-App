@@ -19,7 +19,7 @@ from custom_tools import get_stock_price, get_fundamentals, summarize_article, g
 
 # === LangChain LLM Setup ===
 llm = ChatGroq(
-    model_name="llama-3.3-70b-versatile",  # or llama3 if preferred
+    model_name="meta-llama/llama-4-scout-17b-16e-instruct",  # or llama3 if preferred
     api_key=os.getenv("GROQ_API_KEY"),
     temperature=0.3
 )
